@@ -82,7 +82,7 @@ tqdm==4.66.1
 twilio==7.15.0
 typing-extensions==3.10.0.0
 tzdata==2023.3
-urllib3==1.26.18
+urllib3==1.26.19
 uvloop==0.16.0
 uWSGI==2.0.19.1
 wrapt==1.12.1
