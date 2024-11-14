@@ -78,7 +78,7 @@ slack-sdk==3.9.1
 sly==0.4
 sqlparse==0.4.4
 tabulate==0.8.9
-tqdm==4.66.1
+tqdm==4.66.4
 twilio==7.15.0
 typing-extensions==3.10.0.0
 tzdata==2023.3
